@@ -1,5 +1,7 @@
 # ActiveReign
 
+> :warning: Thank you for your support. This project is no longer publicly maintained. 
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/13889819/62736481-6f7e7880-b9fb-11e9-92d6-47b650fdb84b.png"/>
   <br>
